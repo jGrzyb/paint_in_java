@@ -1,8 +1,8 @@
 # paint_in_java
-Jest to mały program do rysowania napisany w Javie.
+This is little paint-like program written in Java.
 
-Wystarczy pobrać [program](out/artifacts/paint_jar/paint.jar) i mieć zainstalowane jdk.
+Just download jdk and [program](out/artifacts/paint_jar/paint.jar) then run it!
 
-Źródła: [stack overflow](https://stackoverflow.com/questions/16909375/multiple-problems-regarding-java-paint-program-while-painting)
+Sources: [stack overflow](https://stackoverflow.com/questions/16909375/multiple-problems-regarding-java-paint-program-while-painting)
 
 ![img](https://github.com/jGrzyb/paint_in_java/blob/main/paint.png)
